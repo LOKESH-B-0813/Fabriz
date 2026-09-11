@@ -1,0 +1,15 @@
+# Local Android/Firebase/Supabase configuration and signing material
+android/local.properties
+android/app/google-services.json
+*.jks
+*.keystore
+
+# Build output and local IDE state
+.gradle/
+**/build/
+.idea/
+*.iml
+
+# Local environment files (keep documented examples only)
+.env
+.env.local
