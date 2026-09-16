@@ -13,3 +13,4 @@ android/app/google-services.json
 # Local environment files (keep documented examples only)
 .env
 .env.local
+android-sdk/
