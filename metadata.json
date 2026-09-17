@@ -1,0 +1,6 @@
+{
+  "name": "Fabriz",
+  "description": "Minimalist task-management Android app that remembers what you keep avoiding.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
